@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.cloud.capitalone.com/eua-poc/js-1-dep.git"
+    "url": "https://github.com/ece-akturk-whitesource/js-1-transitive.git"
   },
   "author": "andrew.henry@capitalone.com",
   "license": "ISC",
   "dependencies": {
-    "transitive-vuln": "git+https://github.cloud.capitalone.com/eua-poc/transitive-vuln.git"
+    "transitive-vuln": "git+https://github.com/ece-akturk-whitesource/transitive-vuln.git"
   }
 }

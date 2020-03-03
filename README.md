@@ -19,3 +19,4 @@ When only importing and invoking `safeFunc` found in the [transitive dep package
 When only importing and invoking `vulnerableFunc` found in the [transitive dep package]() results in a _failure_. EUA incorrectly marks that we are _not vulnerable_ to the `lodash` vulnerability
 
 ![image](results/vulnerableFunc.png)
+"# js-1-transitive" 

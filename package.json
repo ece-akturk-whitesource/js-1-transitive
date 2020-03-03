@@ -1,0 +1,18 @@
+{
+  "name": "js-1-transitive",
+  "version": "1.0.0",
+  "description": "EUA proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.cloud.capitalone.com/eua-poc/js-1-dep.git"
+  },
+  "author": "andrew.henry@capitalone.com",
+  "license": "ISC",
+  "dependencies": {
+    "transitive-vuln": "git+https://github.cloud.capitalone.com/eua-poc/transitive-vuln.git"
+  }
+}
